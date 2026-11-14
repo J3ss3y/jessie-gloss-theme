@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jessie-Gloss (Nightfall-Gloss Edition)
 
 A custom, dark, and semi-transparent GTK3 and Marco theme designed for the MATE Desktop. Built with a focus on clean aesthetics, crisp contrast, and a deep purple twilight look.
@@ -23,3 +24,7 @@ A custom, dark, and semi-transparent GTK3 and Marco theme designed for the MATE 
 
 ## Author
 Customized and optimized by Jessie for Kali Linux / MATE.
+=======
+# jessie-gloss-theme
+Updated Jessie-Gloss is a high-gloss, Windows Aero-inspired cyberpunk theme built for MATE Desktop, Marco, and GTK3. It combines deep glossy purple titlebars with glowing, translucent macOS-style window control buttons that radiate with a bright Aero-glow on hover.
+>>>>>>> 74d218ba8c16b5dc9259eb8e9cdd2b17540b348a
